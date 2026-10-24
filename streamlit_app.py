@@ -6,6 +6,7 @@ from features import forecast
 
 st.set_page_config(page_title="Energy Forecaster", page_icon="⚡")
 st.title("⚡ Energy Consumption Forecaster")
+st.write("By ~ Ashish Ranjan.....................")
 st.write("Forecasts hourly household electricity use with a LightGBM model.")
 
 
